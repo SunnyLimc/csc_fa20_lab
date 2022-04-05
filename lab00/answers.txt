@@ -1,8 +1,5 @@
-1. find
-2. ps
-3. kill
-4. diff
-5. find
-6. ps
-7. kill
-8. diff
+1. test merge
+2. find
+3. ps
+4. kill
+5. diff
